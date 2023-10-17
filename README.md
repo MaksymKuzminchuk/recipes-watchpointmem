@@ -1,6 +1,6 @@
 # recipes-watchpointmem
 
-The module give a possibility to set watch point on neccessary address and see backtrace when happens some changes there (read/write)
+The module gives a possibility to set watch point on neccessary address and see backtrace when happens some changes there (read/write)
 
 ## Usage
 
